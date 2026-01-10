@@ -1,8 +1,0 @@
-----------------Day-1---------------
-
-created small chatbox
-
-----------------Day-2---------------
-Create The base: 
-cretaed a linkdin pfrofile
-the basics of python.
